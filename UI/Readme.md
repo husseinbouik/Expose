@@ -2,7 +2,7 @@
 
 ## Travail à faire
 
--les types des design ui
+- les types des design ui
 
-  -flat design 
+  - flat design 
   -
